@@ -1,0 +1,3 @@
+enum Type {
+    QUICK, MERGE, INSERTION, BUBBLE, SELECTION;
+}
